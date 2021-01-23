@@ -65,7 +65,7 @@ print(hour.get_artist_chart("방탄소년단"))
 ```
 
 ## Requirements
-[matplotlib](https://pypi.org/project/matplotlib/)
+[matplotlib](https://pypi.org/project/matplotlib/)  
 [requests](https://pypi.org/project/requests/)
 
 ## Reference
